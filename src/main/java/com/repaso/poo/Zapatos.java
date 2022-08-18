@@ -6,6 +6,7 @@ public class Zapatos {
     private String color;
     private String marca;
 
+
     //creacion de geters y setters
     public int getTalla() {
         return talla;

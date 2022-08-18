@@ -8,6 +8,7 @@ public class Init {
         miZapato.setColor("Gris");
         miZapato.setMarca("Arturo Calle");
 
+
         Zapatos miZapatoDos = new Zapatos();
         miZapatoDos.setTalla(34);
         miZapatoDos.setColor("Negro");

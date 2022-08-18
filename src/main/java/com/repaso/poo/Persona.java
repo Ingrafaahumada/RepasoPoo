@@ -7,6 +7,7 @@ public class Persona {
     private String numeroDocumento;
 
 
+
     public String getNombre() {
         return nombre;
     }
